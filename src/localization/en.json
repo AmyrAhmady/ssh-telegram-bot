@@ -1,0 +1,12 @@
+{
+  "enter_usename": "Enter a name for your user. Must be alphanumeric and all letters have to be lower case.",
+  "enter_max_connections": "Enter max concurrent connection count. Must be numeric.",
+  "enter_days": "Enter day count for expiration. Must be numeric.",
+  "something_went_wrong": "Something went wrong",
+  "name_changed_to": "Name has been successfully changed to ",
+  "days_changed_to": "Days user have untill expiration has changed to ",
+  "max_connections_changed_to": "Max connections has changed to ",
+  "user_created_with_info": "User has been created. Info:\t",
+  "choose_user": "Choose a user",
+  "deleted_successfully": "Deleted successfully"
+}
